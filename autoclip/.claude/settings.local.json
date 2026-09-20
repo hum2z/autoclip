@@ -1,0 +1,1 @@
+git clone -b claude/youtube-video-clipping-xatgbh https://github.com/hum2z/autoclip.git && cd autoclip && ./scripts/quickclip.sh
