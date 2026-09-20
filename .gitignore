@@ -143,3 +143,7 @@ control/
 
 # Python 打包产物
 *.egg-info/
+
+# quickclip 产物
+out/
+source.mp4
