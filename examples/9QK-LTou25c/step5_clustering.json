@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "collection_title": "Building Hustlers University",
+    "collection_summary": "从一次谈话到月入千万美金的学校，以及“剪辑军团”的诞生。",
+    "clip_ids": [
+      "2",
+      "3",
+      "4",
+      "8"
+    ]
+  },
+  {
+    "id": "2",
+    "collection_title": "Cancellation and the ban",
+    "collection_summary": "NGO 舆论铺垫、全平台封禁、手机被清空，以及他对原因的解释。",
+    "clip_ids": [
+      "7",
+      "9",
+      "10",
+      "11"
+    ]
+  },
+  {
+    "id": "3",
+    "collection_title": "The raids and Romanian jail",
+    "collection_summary": "三次突袭中的前两次、21 项指控、罗马尼亚监狱与两国使馆。",
+    "clip_ids": [
+      "5",
+      "6",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16"
+    ]
+  },
+  {
+    "id": "4",
+    "collection_title": "The pressure campaign",
+    "collection_summary": "劝自杀信件、引渡令、软禁三年的精神状态、手机密码交易。",
+    "clip_ids": [
+      "17",
+      "18",
+      "19",
+      "20"
+    ]
+  },
+  {
+    "id": "5",
+    "collection_title": "The case falls apart",
+    "collection_summary": "大选被取消、210 页违法记录、案件被驳回与护照归还。",
+    "clip_ids": [
+      "21",
+      "22",
+      "23"
+    ]
+  },
+  {
+    "id": "6",
+    "collection_title": "Where it stands now",
+    "collection_summary": "为什么录这期、5000 万和解、对教育产业的指控与收尾。",
+    "clip_ids": [
+      "1",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28"
+    ]
+  }
+]
